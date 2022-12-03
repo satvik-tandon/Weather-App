@@ -1,4 +1,3 @@
 # Weather-App
-The Weather App shows weather information of the selected location.
-It will comprise of an icon to show weather status, the temperature value in Celsius Unit, the weather description, and then user’s city and country.
-When the user clicks on the temperature value, that will convert it from Celsius to Fahrenheit.
+![image](https://user-images.githubusercontent.com/67956852/205456286-19b0731b-b7df-4ca4-9cf7-d551b6fd8670.png)
+
